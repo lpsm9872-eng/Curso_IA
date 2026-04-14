@@ -1,3 +1,7 @@
 Hola, este es mi primer proyecto en GitHub
 Curso de IA
-
+Hola, mi nombre es Jader. Ha sido todo un aprendizaje. Muy agradecido. He logrado aprender sobre los tipos de ML(supervisado, no supervisado, deep learning). 
+Ahora estoy pensando en como ordenar el workflow para tener más claro la lógica de crear un ML. Me falta pulir el saber en el EDA y las métricas.
+Para el proyecto tengo pensado crear un ML supervisado de clasificación, creo que el algoritmo más apropiado sería el Decision Tree o el Random Forest.
+Mi propuesta crear un cvs con los diagnósticos del CIE-11 y el DSM-5 y que un profesional de la salud, pueda ingresar una consulta y le devuelva 
+cual diagnóstico se ajusta más a ese paciente. Es como la idea que tengo por ahora. 
